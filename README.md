@@ -40,7 +40,7 @@ This project documents my hands-on experience building and managing an Active Di
 - [x] Configure Static IP
 - [x] Install Active Directory Domain Services
 - [x] Promote Server to Domain Controller
-- [ ] Create Organizational Units
+- [x] Create Organizational Units
 - [ ] Configure Group Policies
 - [ ] Configure DHCP
 - [ ] Add Additional Clients
