@@ -47,7 +47,11 @@ This project documents my hands-on experience building and managing an Active Di
 
 ## Screenshots
 
-Screenshots will be added as the project progresses.
+## Domain Controller
+
+![Domain Controller](images/domain-controller.png)
+
+The server was promoted to a Domain Controller using Active Directory Domain Services (AD DS). The domain was configured to manage users, groups, and authentication within the lab environment.
 
 ## Lessons Learned
 
