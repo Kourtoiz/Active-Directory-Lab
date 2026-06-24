@@ -53,9 +53,7 @@ This project documents my hands-on experience building and managing an Active Di
 
 The server was promoted to a Domain Controller using Active Directory Domain Services (AD DS). The domain was configured to manage users, groups, and authentication within the lab environment.
 
-## Lessons Learned
 
-This lab has helped me understand how Active Directory, DNS, users, groups, and domain-joined computers work together in a Windows enterprise environment.
 
 ## Group Policy
 
