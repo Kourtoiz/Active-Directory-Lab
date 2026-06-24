@@ -41,7 +41,7 @@ This project documents my hands-on experience building and managing an Active Di
 - [x] Install Active Directory Domain Services
 - [x] Promote Server to Domain Controller
 - [x] Create Organizational Units
-- [ ] Configure Group Policies
+- [x] Configure Group Policies
 - [ ] Configure DHCP
 - [ ] Add Additional Clients
 
@@ -52,6 +52,21 @@ This project documents my hands-on experience building and managing an Active Di
 ![Domain Controller](images/domain-controller.png)
 
 The server was promoted to a Domain Controller using Active Directory Domain Services (AD DS). The domain was configured to manage users, groups, and authentication within the lab environment.
+
+## Lessons Learned
+
+This lab has helped me understand how Active Directory, DNS, users, groups, and domain-joined computers work together in a Windows enterprise environment.
+
+## Group Policy
+
+![Group Policy](images/gpo-control-panel-policy.png)
+
+Configured a Group Policy setting to prevent users from accessing Control Panel and Windows Settings.
+
+
+
+
+
 
 ## Lessons Learned
 
