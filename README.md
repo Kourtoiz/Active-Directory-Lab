@@ -75,7 +75,7 @@ Linked the Group Policy Object (GPO) to the Operations Organizational Unit to en
 ## Group Restriction verified
 
 ![Group Restriction verified](images/gpo-restriction-verified.png)
-![cmd command](gpresult-cmd.png)
+![cmd command](images/gpresult-cmd.png)
 
 Verified successful policy enforcement by logging in as a domain user and confirming that access to Control Panel was restricted.
 
