@@ -64,6 +64,13 @@ Configured a Group Policy setting to prevent users from accessing Control Panel 
 
 
 
+## Group Linked
+
+![Group Linked](images/gpo-linked-to-operations-ou.png)
+
+Linked the Group Policy Object (GPO) to the Operations Organizational Unit to enforce policy settings for targeted users.
+
+
 
 
 ## Lessons Learned
