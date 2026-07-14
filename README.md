@@ -84,7 +84,8 @@ Verified successful policy enforcement by logging in as a domain user and confir
 
 Verified successful GPO deployment using the gpresult command. The output confirmed that the Group Policy Object was applied to the target user account, validating that the policy settings were being enforced correctly.
 
-
+## DHCP Configuration
+![DHCP Configuration](images/dhcpconfig-cmd.png)
 
 
 
