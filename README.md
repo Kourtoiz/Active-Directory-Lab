@@ -87,6 +87,11 @@ Verified successful GPO deployment using the gpresult command. The output confir
 ## DHCP Configuration
 ![DHCP Configuration](images/dhcpconfig-cmd.png)
 
+The DHCP server has been configured with an active IPv4 scope named LAB scope for the 192.168.10.0/24 network. This scope is responsible for automatically assigning IP addresses and network settings to client computers joined to the domain
+
+![DHCP address](images/dhcpaddress-cmd.png)
+After activating the scope, Windows clients successfully received IP addresses within the configured range (192.168.10.4 - 192.168.10.54) and automatically obtained the appropriate DNS and gateway settings from the DHCP server.
+
 
 
 ## Lessons Learned
