@@ -42,8 +42,8 @@ This project documents my hands-on experience building and managing an Active Di
 - [x] Promote Server to Domain Controller
 - [x] Create Organizational Units
 - [x] Configure Group Policies
-- [ ] Configure DHCP
-- [ ] Add Additional Clients
+- [x] Configure DHCP
+- [x] Add Additional Clients
 
 ## Screenshots
 
